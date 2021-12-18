@@ -18,8 +18,8 @@ setup(
   long_description=DESCRIPTION,
   author = 'Viboon parnkeaw',                 
   author_email = 'bakpu11@gmail.com',     
-  url = 'https://github.com/MyViboon/packkage',  
-  download_url = 'https://github.com/MyViboon/packkage/archive/v0.0.1.zip',  
+  url = 'https://github.com/MyViboon/ViboonProfile',  
+  download_url = 'https://github.com/MyViboon/ViboonProfile/archive/v0.0.1.zip',  
   keywords = ['Profile', 'viboon', ],
   classifiers=[
     'Development Status :: 3 - Alpha',     
